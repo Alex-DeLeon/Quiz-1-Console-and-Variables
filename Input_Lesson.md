@@ -43,3 +43,4 @@ console.log(width);   // 4.56
 let year = parseInt("2022.5");
 console.log(year);  // 2022
 ```
+
